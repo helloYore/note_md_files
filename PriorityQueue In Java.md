@@ -92,7 +92,7 @@
 * PriorityQueue通过堆实现，具体说是通过完全二叉树（*complete binary tree*）实现的**小顶堆** *（任意一个非叶子节点的权值，都不大于其左右子节点的权值）*
 * 这也就意味着可以通过数组来作为*PriorityQueue*的底层实现。
 
-<img src="/Users/white/Library/Application Support/typora-user-images/image-20220101160453233.png" alt="image-20220101160453233" style="zoom:33%;" />
+<img src="images/image-20220101160453233.png" alt="image-20220101160453233" style="zoom:33%;" />
 
 * 参考https://blog.csdn.net/u010623927/article/details/87179364 
 
